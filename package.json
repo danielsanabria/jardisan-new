@@ -5,7 +5,7 @@
     "production": "cross-env NODE_ENV=production postcss public/tailwind.css -o public/build/tailwind.css"
   },
   "dependencies": {
-    "autoprefixer": "^9.5.1",
+    "autoprefixer": "^9.7.4",
     "tailwindcss": "^1.0"
   },
   "devDependencies": {
